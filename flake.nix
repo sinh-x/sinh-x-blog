@@ -10,12 +10,14 @@
     devShell.x86_64-linux = with nixpkgs.legacyPackages.x86_64-linux;
       mkShell {
         buildInputs = [
-          nodejs-14_x
+          nodejs_22
           nodePackages.npm
+          fish
         ];
 
         shellHook = ''
           export NODE_ENV=development
+          exec fish
         '';
       };
   };
