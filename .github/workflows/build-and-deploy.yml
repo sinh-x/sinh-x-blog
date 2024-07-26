@@ -1,0 +1,26 @@
+
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Copy Obsidian vault
+        run: cp -r /path/to/your/obsidian/vault/* vault/
+
+      - name: Build site
+        run: npx eleventy
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
