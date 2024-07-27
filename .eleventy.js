@@ -3,7 +3,7 @@ module.exports = function (eleventyConfig) {
   return {
     pathPrefix: '/sinh-x-blog/',
     dir: {
-      input: 'vault',
+      input: 'vault/Areas/Stories/',
       output: '_site',
     },
   };

@@ -18,10 +18,7 @@ jobs:
         with:
           repository: sinh-x/personal-vault
           token: ${{ secrets.GH_PAT }}
-          path: private-repo
-
-      - name: Copy sub-directory to vault
-        run: cp -R personal-vault/Areas/Stories/* ./vault/
+          path: vault
 
       - name: Install dependencies
         run: npm install
