@@ -1,0 +1,30 @@
+---
+id: Tôi là ai - Tham
+aliases: []
+tags: []
+---
+
+# Tôi là ai - Tham
+
+Lại tiếp tục với câu hỏi Tôi là ai?
+
+Ngồi nhìn vào bản thân lại thấy mình là cái sự tham lam vô độ. Cứ như cái cảm giác khoảng trống mà không gì có thể lấp
+đầy được. Tôi thấy sự tham lam ấy là chính mình. Trước khi nhận rõ mình là tham lam, tôi từng lầm tưởng rằng những cái
+tôi có được giúp định nghĩa tôi là ai. Danh tiếng, bằng cấp, học thức, thành tựu, bạn bè, người yêu, gia đình, tiền bạc,
+xe, nhà... Để rồi đến khi có rồi lại muốn có thêm... bao nhiêu cũng thấy không đủ. để rồi nhìn lại mới thấy thì ra tôi
+là cái lòng tham vô cùng ấy. Không phải là tôi có lòng tham... mà tôi là lòng tham.
+
+Khi không còn trốn tránh, không còn chối bỏ, nhìn thẳng vào chính mình và thấy rõ sự rộng lớn bao la của chính mình mà
+không có bất cứ gì có thể lấp đầy được, tôi thôi không còn tìm kiếm cảm giác thỏa mãn từ việc lấp đầy bản thân nữa bằng
+những thứ khác nữa... chỉ cần mỗi ngày có cơm ăn, mỗi ngày có thể nằm xuống ngủ mà chẳng thấy sợ hãi, thức dậy mà không
+cần phải lê lết bản thân tìm kiếm gì khác... ngoài việc muốn vận động để cảm nhận rằng mình vẫn còn sống, còn có thể hít
+thở...
+
+Mỗi ngày trở thành một món quà... để mỗi tối dành thời gian ghi lại những gì mình đang trải qua... thấy cái mình tham
+lam cái gì, không còn tham lam cái gì... để rồi thấy tham lam dần biến đối... thấy mình dần dần thay đổi. Tham lam vô
+cùng vô tận không gì lấp đầy được thì cũng có thể bao dung tất cả, chất chứa tất cả mọi thứ mà không gai góc, không gồng
+gánh, không bật lại, không nóng giận, cũng chẳng sợ hãi... thì ra tham lam cũng chỉ là một tên gọi mà thôi. Gọi tôi là
+tham lam cũng được... chỉ là tôi còn có những tên gọi khác... gọi sao cũng được mà... mà có thật sự là sao cũng được
+không?
+
+Hì hì cái này để mai kể cho nghe chuyện về "Sao cũng được!"... giờ buồn ngủ rồi.

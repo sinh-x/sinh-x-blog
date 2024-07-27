@@ -13,13 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Checkout private repository
-        uses: actions/checkout@v2
-        with:
-          repository: sinh-x/personal-vault
-          token: ${{ secrets.GH_PAT }}
-          path: vault
-
       - name: Install dependencies
         run: npm install
 
