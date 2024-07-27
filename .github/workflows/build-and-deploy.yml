@@ -13,8 +13,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Copy Obsidian vault
-        run: cp -r /home/sinh/Documents/Sinh-organized/Areas/Stories/* vault/
+      - name: Checkout private repository
+        uses: actions/checkout@v2
+        with:
+          repository: sinh-x/personal-vault
+          token: ${{ secrets.GH_PAT }}
+          path: private-repo
+
+      - name: Copy sub-directory to vault
+        run: cp -R personal-vault/Areas/Stories/* ./vault/
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Build site
         run: npx eleventy
